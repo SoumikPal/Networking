@@ -13,3 +13,6 @@ Group chat program where there is a single server and multiple clients. The serv
 <b>Stopping the clients and server:</b> CTRL-C
 
 <b>Note:</b> The portnumber provided to clients should be same as the one given to server. Usernumber is just an identity of yourself.
+
+<b>Sending messages :</b> If you want to send to a particular client then send the message in the following format.
+ usernumber.<Your Message> without the <>
